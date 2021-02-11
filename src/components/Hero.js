@@ -162,12 +162,6 @@ const Hero = ({ slides }) => {
 
 
 
-
-
-
-
-
-
     }
 
     const prevSlide = () => {
