@@ -26,3 +26,5 @@ font-size: ${({ big }) => (big ? '20px' : '14px')};
     transform: translateX(-2px)
 }
 `
+
+export default Button;
